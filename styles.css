@@ -5,17 +5,16 @@
   background-color: purple;
 }
 
-.left-side {
-  border-color: green;
-  border-width: 5px;
-  border-style: solid;
+.heading{
+  border-left: 5px solid  green;
   padding: 10px;
 }
 
 .text {
-  font-size: 20px;
+  
 }
 
-.heading {
-  color: white;
+h2 {
+	  color: white;
+	font-size: 20px;
 }

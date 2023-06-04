@@ -1,17 +1,13 @@
 
 /* Your CSS Code here. */
 .main {
-  width: 200px;
+  width: 250px;
   background-color: purple;
 }
 
 .heading{
   border-left: 5px solid  green;
   padding: 10px;
-}
-
-.text {
-  
 }
 
 h2 {
